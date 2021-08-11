@@ -1,0 +1,12 @@
+/node_modules
+/.vscode
+
+# testing
+**/coverage
+**/instrumented
+.nyc_output
+**/cypress/videos
+**/cypress/screenshots
+**/results
+**/node_modules
+**/examples

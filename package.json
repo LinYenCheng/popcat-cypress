@@ -1,0 +1,12 @@
+{
+  "name": "popcat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test-one": "cypress run --spec **/popcat.spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

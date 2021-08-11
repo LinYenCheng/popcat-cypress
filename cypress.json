@@ -1,0 +1,15 @@
+{
+  "viewportWidth": 411,
+  "viewportHeight": 731,
+  "defaultCommandTimeout": 8000,
+  "requestTimeout": 8000,
+  "retries": 5,
+  "video": true,
+  "videoUploadOnPasses": false,
+  "chromeWebSecurity": false,
+  "reporter": "junit",
+  "ignoreTestFiles": "**/examples/*.js",
+  "reporterOptions": {
+    "mochaFile": "results/TEST-[hash].xml"
+  }
+}
